@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com:JMC2002/jmc2002.github.io.git
+  branch: master
